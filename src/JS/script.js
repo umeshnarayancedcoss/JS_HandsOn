@@ -119,3 +119,10 @@ alert(x);
 let txt = "We are \"Vikings\"";
 alert(txt);
 }
+
+{
+    // JS strings exercise 3
+let str1 = "Hello ";
+let str2 = "World!";
+alert(str1+str2);
+}
