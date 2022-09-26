@@ -95,3 +95,6 @@ alert(person.name+ " is " +person.age);
 
 //JS Events exercise 2
 <button onclick="myFunction()">Click me.</button>
+
+//JS Events exercise 3
+<div onmouseover="this.style.backgroundColor='red'">myDIV.</div>
