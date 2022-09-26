@@ -57,3 +57,9 @@ function myFunction()
 alert("Hello World!");
 }
 
+
+// JS Functions exercise 3
+function myFunction() {
+  return "Hello";
+    }
+    document.getElementById("demo").innerHTML = myFunction();
