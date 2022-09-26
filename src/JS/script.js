@@ -68,14 +68,14 @@ function myFunction() {
     function myFunction() {
         document.getElementById("demo").innerHTML= "Hello";
       }
-
+{
 //   JS Objects exercise 1
     const person = {
         firstName: "John",
         lastName: "Doe"
     };
       alert(person.firstName);
-
+}
 // JS Objects exercise 2
         const person = {
         firstName: "John",
@@ -83,18 +83,33 @@ function myFunction() {
       country: "Norway"
        };
 
+       {
 // JS Objects exercise 3
        const person =
  {
   name:"John",age:50
 };
 alert(person.name+ " is " +person.age);
+       }
 
+{
 // JS Events exercise 1
 <button onclick="alert('Hello')">Click me.</button>
+}
 
+{
 //JS Events exercise 2
 <button onclick="myFunction()">Click me.</button>
+}
 
+{
 //JS Events exercise 3
 <div onmouseover="this.style.backgroundColor='red'">myDIV.</div>
+}
+
+{
+// JS strings exercise 1
+let txt = "Hello World!";
+let x = txt.length;
+alert(x);
+}
