@@ -50,3 +50,10 @@ function myFunction() {
     alert("Hello World!");
   }
   myFunction();
+
+  //JS Function exercise 2
+function myFunction() 
+{
+alert("Hello World!");
+}
+
