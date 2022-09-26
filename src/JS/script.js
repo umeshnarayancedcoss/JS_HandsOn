@@ -75,3 +75,11 @@ function myFunction() {
         lastName: "Doe"
     };
       alert(person.firstName);
+
+// JS Objects exercise 2
+        const person = {
+        firstName: "John",
+        lastName: "Doe",
+      country: "Norway"
+       };
+       
