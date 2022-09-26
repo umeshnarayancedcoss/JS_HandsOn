@@ -151,3 +151,9 @@ txt = txt.replace("Hello", "Welcome");
     let txt = "Hello World";
 txt = txt.toUpperCase();
 }
+
+{
+    // JS String Methods exercise 5
+    let txt = "Hello World";
+txt = txt.toLowerCase();
+}
