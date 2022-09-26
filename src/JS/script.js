@@ -36,3 +36,11 @@ x+= y;
 x = 10;
 y = 5;
 x*= y;
+
+// JS Datatypes Exercise 1
+let length = 16;          // Number
+let lastName = "Johnson"; // String
+const x = {
+  firstName: "John",
+  lastName: "Doe"
+};                        // Object
