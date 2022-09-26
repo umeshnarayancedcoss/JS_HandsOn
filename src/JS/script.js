@@ -26,3 +26,8 @@ alert(10/2);
 
 // JS Operators exercise 3
 alert(15%9);
+
+// JS Operators exercise 4
+x = 10;
+y = 5;
+x+= y;
