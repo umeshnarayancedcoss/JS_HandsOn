@@ -128,8 +128,14 @@ alert(str1+str2);
 }
 
 {
-    // JS String Methods
+    // JS String Methods exercise 1
 let txt = "Hello World!";
 txt = txt.
 toUpperCase();
+}
+
+{
+     // JS String Methods exercise 2
+let txt = "I can eat bananas all day";
+let x = txt.slice(10, 17);
 }
