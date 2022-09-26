@@ -89,3 +89,7 @@ function myFunction() {
   name:"John",age:50
 };
 alert(person.name+ " is " +person.age);
+
+// JS Events exercise 1
+<button onclick="alert('Hello')">Click me.</button>
+
