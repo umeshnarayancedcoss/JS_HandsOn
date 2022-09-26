@@ -14,3 +14,6 @@ var x = 5;
 var y = 10;
 var z = x + y;
 alert (z);
+
+// JS Variables exercise 5
+var firstName= "John",lastName = "Doe",age= 35;
