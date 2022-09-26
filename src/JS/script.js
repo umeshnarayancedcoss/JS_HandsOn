@@ -68,3 +68,10 @@ function myFunction() {
     function myFunction() {
         document.getElementById("demo").innerHTML= "Hello";
       }
+
+//   JS Objects exercise 1
+    const person = {
+        firstName: "John",
+        lastName: "Doe"
+    };
+      alert(person.firstName);
