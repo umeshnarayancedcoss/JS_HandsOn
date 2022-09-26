@@ -63,3 +63,8 @@ function myFunction() {
   return "Hello";
     }
     document.getElementById("demo").innerHTML = myFunction();
+
+// JS Functions exercise 4
+    function myFunction() {
+        document.getElementById("demo").innerHTML= "Hello";
+      }
