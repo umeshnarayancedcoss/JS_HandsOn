@@ -44,3 +44,9 @@ const x = {
   firstName: "John",
   lastName: "Doe"
 };                        // Object
+
+// JS FUNCTIONS exercise 1
+function myFunction() {
+    alert("Hello World!");
+  }
+  myFunction();
