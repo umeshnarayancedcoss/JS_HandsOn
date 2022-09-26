@@ -23,3 +23,6 @@ alert(10*5);
 
 // JS Operators exercise 2
 alert(10/2);
+
+// JS Operators exercise 3
+alert(15%9);
