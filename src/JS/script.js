@@ -8,3 +8,9 @@ var x= 50
 var x= 5;
 var y = 10;
 document.getElementById("demo").innerHTML = x+y;
+
+// JS variables exercise 4
+var x = 5;
+var y = 10;
+var z = x + y;
+alert (z);
