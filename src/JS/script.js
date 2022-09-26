@@ -93,3 +93,5 @@ alert(person.name+ " is " +person.age);
 // JS Events exercise 1
 <button onclick="alert('Hello')">Click me.</button>
 
+//JS Events exercise 2
+<button onclick="myFunction()">Click me.</button>
