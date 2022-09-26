@@ -20,3 +20,6 @@ var firstName= "John",lastName = "Doe",age= 35;
 
 // JS Operators exercise 1
 alert(10*5);
+
+// JS Operators exercise 2
+alert(10/2);
