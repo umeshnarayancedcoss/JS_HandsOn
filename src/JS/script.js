@@ -359,3 +359,14 @@ while (i < 10) {
   }
   }
 }
+
+{
+  // JS Break Loops Exercise 2
+  for (i = 0; i < 10; i++) {
+    if (i == 5) {
+  continue;
+    }
+    console.log(i);
+  }
+ 
+}
