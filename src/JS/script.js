@@ -389,3 +389,13 @@ document.getElementsByTagName("p")[0].innerHTML = "Hello";
 </script>
 }
 
+{
+   // JS HTML DOM Exercise 3
+   <p class="test"></p>
+<p class="test"></p>
+<script>
+document.getElementsByClassName("test")[0].innerHTML
+ = "Hello";
+</script>
+}
+
