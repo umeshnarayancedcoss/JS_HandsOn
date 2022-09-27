@@ -286,3 +286,18 @@ if(x>y) {
  alert("Goodbye");
 }
 }
+
+{
+  // JS Switch Exercise 1
+switch
+(fruits) {
+  case
+ "Banana":
+    alert("Hello")
+    break;
+  case
+ "Apple":
+    alert("Welcome")
+    break;    
+}
+}
