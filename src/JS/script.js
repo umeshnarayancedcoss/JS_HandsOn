@@ -241,3 +241,10 @@ let r = Math.random();
   //JS Math Exercise 4
   let x = Math.sqrt(9);
 }
+
+{
+  // JS Comparisons Exercise 1
+x = 10;
+y = 5;
+alert(x>y);
+}
