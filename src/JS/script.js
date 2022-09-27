@@ -277,3 +277,12 @@ alert(voteable);
   alert("Hello World");
 }
 }
+
+{
+// JS Conditions Exercise 2
+if(x>y) {
+ alert("Hello World");
+} else{
+ alert("Goodbye");
+}
+}
