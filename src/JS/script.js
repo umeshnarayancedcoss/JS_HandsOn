@@ -231,3 +231,8 @@ let r = Math.random();
   // JS Math Exercise 2
   let x = Math.max(10, 20);
 }
+
+{
+  //JS Math Exercise 3
+  let x = Math.round(5.3);
+}
