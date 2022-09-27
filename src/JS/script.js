@@ -168,3 +168,9 @@ const person = {
   const cars = ["Volvo", "Jeep", "Mercedes"];
 cars[0]="Ford";
 }
+
+{
+  // JS Arrays exercise 3
+  const cars = ["Volvo", "Jeep", "Mercedes"];
+alert(cars.length);
+}
