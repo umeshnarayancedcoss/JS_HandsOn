@@ -191,3 +191,9 @@ fruits.push("Kiwi");
   const fruits = ["Banana", "Orange", "Apple", "Kiwi"];
 fruits.splice(1,2);
 }
+
+{
+  // JS Array Sort Exercise 1
+  const fruits = ["Banana", "Orange", "Apple", "Kiwi"];
+fruits.sort();
+}
