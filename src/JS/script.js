@@ -407,4 +407,10 @@ document.getElementById("image").src = "pic_mountain.jpg";
 </script>
 }
 
-
+{
+  // JS HTML DOM Exercise 5
+  <input type="text" id="myText" value="Hello">
+  <script>
+  document.getElementById("myText").value= "Have a nice day!";
+  </script>
+}
