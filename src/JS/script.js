@@ -414,3 +414,11 @@ document.getElementById("image").src = "pic_mountain.jpg";
   document.getElementById("myText").value= "Have a nice day!";
   </script>
 }
+
+{
+// JS HTML DOM Exercise 6
+<p id="demo"></p>
+<script>
+document.getElementById("demo").style.color= "red";
+</script>
+}
