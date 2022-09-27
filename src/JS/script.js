@@ -209,3 +209,9 @@ alert(d);
 const d = new Date();
 year = d.getFullYear();
 }
+
+{
+  // JS Dates Exercise 3
+  const d = new Date();
+month = d.getMonth();
+}
