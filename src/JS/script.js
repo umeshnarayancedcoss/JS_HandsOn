@@ -381,3 +381,11 @@ document.getElementById("demo").innerHTML = "Hello";
 
 }
 
+{
+  // JS HTML DOM Exercise 2
+  <p id="demo"></p>
+<script>
+document.getElementsByTagName("p")[0].innerHTML = "Hello";
+</script>
+}
+
