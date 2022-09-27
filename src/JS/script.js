@@ -262,3 +262,10 @@ alert(x ==y);
 y = 5;
 alert(x!=y);
 }
+
+{
+  // JS Comparisons Exercise 4
+  var age = n;
+var voteable = (age<18)?"Too young":"Old enough";
+alert(voteable);
+}
