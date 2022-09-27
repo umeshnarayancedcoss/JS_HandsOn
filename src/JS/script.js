@@ -248,3 +248,10 @@ x = 10;
 y = 5;
 alert(x>y);
 }
+
+{
+  // JS Comparisons Exercise 2
+  x = 10;
+y = 10;
+alert(x ==y);
+}
