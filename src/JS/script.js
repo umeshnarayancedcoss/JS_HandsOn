@@ -399,3 +399,12 @@ document.getElementsByClassName("test")[0].innerHTML
 </script>
 }
 
+{
+  // JS HTML DOM Exercise 4
+  <img id="image" src="smiley.gif">
+<script>
+document.getElementById("image").src = "pic_mountain.jpg";
+</script>
+}
+
+
