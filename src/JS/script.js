@@ -160,17 +160,22 @@ const person = {
 {
   // JS Arrays exercise 1
   const cars = ["Saab", "Volvo", "BMW"];
-  let x =cars[1];
+  let x = cars[1];
 }
 
 {
   //JS Arrays exercise 2
   const cars = ["Volvo", "Jeep", "Mercedes"];
-cars[0]="Ford";
+  cars[0] = "Ford";
 }
 
 {
   // JS Arrays exercise 3
   const cars = ["Volvo", "Jeep", "Mercedes"];
-alert(cars.length);
+  alert(cars.length);
+}
+{
+  //JS Array Methods Exercise 1
+  const fruits = ["Banana", "Orange", "Apple"];
+  fruits.pop();
 }
