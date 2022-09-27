@@ -269,3 +269,11 @@ alert(x!=y);
 var voteable = (age<18)?"Too young":"Old enough";
 alert(voteable);
 }
+
+{
+  // JS Conditions Exercise 1
+  if(x > y) 
+{
+  alert("Hello World");
+}
+}
