@@ -438,3 +438,11 @@ document.getElementById("demo").style.color= "red";
   document.getElementById("demo").style.display= "none";
   </script>
 }
+
+{
+  //JS HTML DOM Exercise 9
+  <button id="demo">Click me1</button>
+  <script>
+  document.getElementById("demo").addEventListener("click", myFunction);
+  </script>
+}
