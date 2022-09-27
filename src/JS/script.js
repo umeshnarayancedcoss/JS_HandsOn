@@ -255,3 +255,10 @@ alert(x>y);
 y = 10;
 alert(x ==y);
 }
+
+{
+   // JS Comparisons Exercise 3
+  x = 10;
+y = 5;
+alert(x!=y);
+}
