@@ -226,3 +226,8 @@ d.setFullYear(2020);
   // JS Math Exercise 1
 let r = Math.random();
 }
+
+{
+  // JS Math Exercise 2
+  let x = Math.max(10, 20);
+}
