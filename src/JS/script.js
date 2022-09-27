@@ -236,3 +236,8 @@ let r = Math.random();
   //JS Math Exercise 3
   let x = Math.round(5.3);
 }
+
+{
+  //JS Math Exercise 4
+  let x = Math.sqrt(9);
+}
