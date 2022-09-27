@@ -179,3 +179,9 @@ const person = {
   const fruits = ["Banana", "Orange", "Apple"];
   fruits.pop();
 }
+
+{
+  //JS Array Methods Exercise 2
+  const fruits = ["Banana", "Orange", "Apple"];
+fruits.push("Kiwi");
+}
