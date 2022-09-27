@@ -323,3 +323,11 @@ for(i=0;i<10;i++) {
   console.log(i);
 }
 }
+
+{
+  // JS For Loops Exercise 2
+  const fruits = ["Apple", "Banana", "Orange"];
+for (x of fruits) {
+  console.log(x);
+}
+}
