@@ -185,3 +185,9 @@ const person = {
   const fruits = ["Banana", "Orange", "Apple"];
 fruits.push("Kiwi");
 }
+
+{
+  //JS Array Methods Exercise 3
+  const fruits = ["Banana", "Orange", "Apple", "Kiwi"];
+fruits.splice(1,2);
+}
