@@ -215,3 +215,9 @@ year = d.getFullYear();
   const d = new Date();
 month = d.getMonth();
 }
+
+{
+  // JS Dates Exercise 4
+  const d = new Date();
+d.setFullYear(2020);
+}
