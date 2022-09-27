@@ -315,3 +315,11 @@ switch
    alert("Neither");
   }
 }
+
+{
+  // JS For Loops Exercise 1
+let i;
+for(i=0;i<10;i++) {
+  console.log(i);
+}
+}
