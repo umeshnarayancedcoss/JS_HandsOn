@@ -340,3 +340,12 @@ while(i<10) {
   i++
 }
 }
+
+{
+  // JS While Loops Exercise 2
+  let i = 0;
+while (i < 10) {
+  console.log(i);
+  i=i+2;
+}
+}
