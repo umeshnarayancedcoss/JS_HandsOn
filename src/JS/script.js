@@ -430,3 +430,11 @@ document.getElementById("demo").style.color= "red";
   document.getElementById("demo").style.fontSize = "40px";
   </script>
 }
+
+{
+  // JS HTML DOM Exercise 8
+  <p id="demo"></p>
+  <script>
+  document.getElementById("demo").style.display= "none";
+  </script>
+}
