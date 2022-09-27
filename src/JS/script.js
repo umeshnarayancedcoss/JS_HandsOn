@@ -162,3 +162,9 @@ const person = {
   const cars = ["Saab", "Volvo", "BMW"];
   let x =cars[1];
 }
+
+{
+  //JS Arrays exercise 2
+  const cars = ["Volvo", "Jeep", "Mercedes"];
+cars[0]="Ford";
+}
